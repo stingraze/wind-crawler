@@ -2,6 +2,7 @@
 This is a web crawler inspired by the travel of pollen in wind, etc.
 
 Arguments:
+
   --seeds default="seeds.txt"
   
   --strategy choices=["brownian","levy","ballistic","wind","dla","quantum"],
