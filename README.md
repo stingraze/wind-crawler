@@ -13,3 +13,5 @@ Arguments:
   --csv-out default="crawl_output.csv"
 
 (C)Tsubasa Kato - Inspire Search Corporation - 2025
+
+https://www.inspiresearhc.io/en
