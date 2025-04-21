@@ -14,4 +14,4 @@ Arguments:
 
 (C)Tsubasa Kato - Inspire Search Corporation - 2025
 
-https://www.inspiresearhc.io/en
+https://www.inspiresearch.io/en
