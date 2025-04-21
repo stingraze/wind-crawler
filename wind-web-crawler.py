@@ -21,8 +21,7 @@ from bs4 import BeautifulSoup
 from tqdm import tqdm
 
 # ─── HTTP & politeness ───────────────────────────────────────────────
-UA = ("PhysicsCrawler/2.2 (+https://github.com/yourrepo; "
-      "polite crawler; email you@example.com)")
+UA = ("WindCrawler/2.2 - Mozilla Compatible")
 
 CONNECT_TIMEOUT = 2      # DNS + TCP handshake seconds
 READ_TIMEOUT    = 3     # socket idle seconds
