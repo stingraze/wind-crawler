@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-wind-web-crawler.py – quantum‑enabled CSV crawler (timeout‑safe)
+wind-web-crawler.py – wind and quantum‑enabled CSV crawler (timeout‑safe)
 (C)Tsubasa Kato - Inspire Search Corp. - 2025/4/21 
 Created with help of ChatGPT o3
 Our company website: https://www.inspiresearch.io/en
